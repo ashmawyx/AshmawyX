@@ -1,0 +1,9 @@
+C:\Users\a7mee\source\repos\AshmawyX\bin\Debug\AshmawyX.exe.config
+C:\Users\a7mee\source\repos\AshmawyX\bin\Debug\AshmawyX.exe
+C:\Users\a7mee\source\repos\AshmawyX\bin\Debug\AshmawyX.pdb
+C:\Users\a7mee\source\repos\AshmawyX\obj\Debug\AshmawyX.csproj.AssemblyReference.cache
+C:\Users\a7mee\source\repos\AshmawyX\obj\Debug\AshmawyX.Properties.Resources.resources
+C:\Users\a7mee\source\repos\AshmawyX\obj\Debug\AshmawyX.csproj.GenerateResource.cache
+C:\Users\a7mee\source\repos\AshmawyX\obj\Debug\AshmawyX.csproj.CoreCompileInputs.cache
+C:\Users\a7mee\source\repos\AshmawyX\obj\Debug\AshmawyX.exe
+C:\Users\a7mee\source\repos\AshmawyX\obj\Debug\AshmawyX.pdb
